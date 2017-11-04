@@ -1,9 +1,9 @@
+package com.timofonic.java.exercises;
+
 /**
- * This very simple app shows the "Hello world!" phrase on the screen.
+ * This very simple program print the "Hello world!" phrase on the screen.
  * @author timofonic
  */
-
-// Declare a public class named "HelloWorld"
 public class HelloWorld {
 
     // Specifies a static method that allows to execute code inside the class
